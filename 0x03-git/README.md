@@ -1,1 +1,1 @@
-My first directory readme
+ It’s time to code!
